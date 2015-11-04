@@ -37,6 +37,9 @@ Step 2. The item should fall under the appropriate category.
 [link](https://github.com/neo4j-contrib/neo4j-tinkerpop-api)
 1. **gremlin-javascript** JavaScript graph database client for TinkerPop3 Gremlin Server
 [link](https://github.com/jbmusso/gremlin-javascript)
+1. **gremlin-php** gremlin-server php driver compatible with TinkerPop3. It will allow you to connect to gremlin-server and it's backends (Neo4J, Titan, etc.)
+[link](https://github.com/PommeVerte/gremlin-php)
+
 
 ### <A NAME="Tinkerpop2"></A>Tinkerpop 2 libraries
 1. **Ferma** An active reworking of tinkerpop frames
