@@ -20,17 +20,17 @@ Step 2. The item should fall under the appropriate category.
 
 ### <A NAME="Tinkerpop3"></A>Tinkerpop 3 libraries
 1. **Tinkerpop3 implementation** Mirror of Apache TinkerPop (Incubating). 
-[Repository](https://github.com/apache/incubator-tinkerpop) and [site](http://tinkerpop.incubator.apache.org/)
+[link](https://github.com/apache/incubator-tinkerpop) and [site](http://tinkerpop.incubator.apache.org/)
 1. **Peapod** A new object-graph-wrapper for the Tinkerpop 3 graph stack.
 [Peapod](https://github.com/bayofmany/peapod)
 1. **Elastic Gremlin** TinkerPop 3 implementation on Elasticsearch backend
-[Repository](https://github.com/rmagen/elastic-gremlin)
+[link](https://github.com/rmagen/elastic-gremlin)
 1. **ts-tinkerpop** Utilities for using Tinkerpop3 via the node-java API in Typescript
-[Repository](https://github.com/RedSeal-co/ts-tinkerpop)
+[link](https://github.com/RedSeal-co/ts-tinkerpop)
 1. **Gremlin Scala** Scala wrapper for Apache TinkerPop 3 Graph DSL
-[Repository](https://github.com/mpollmeier/gremlin-scala)
+[link](https://github.com/mpollmeier/gremlin-scala)
 1. **ogre** Clojure library for querying TinkerPop graphs http://ogre.clojurewerkz.org/
-[Repository](https://github.com/clojurewerkz/ogre)
+[link](https://github.com/clojurewerkz/ogre)
 1. **tinkergraph-js** A pure JavaScript implementation of TinkerPop's TinkerGraph in-memory graph database
 [link](https://github.com/jbmusso/tinkergraph-js)
 1. **neo4j-tinkerpop-api** Apache Licensed Neo4j API for Tinkerpop3
@@ -39,9 +39,9 @@ Step 2. The item should fall under the appropriate category.
 
 ### <A NAME="Tinkerpop2"></A>Tinkerpop 2 libraries
 1. **Ferma** An active reworking of tinkerpop frames
-[Repository](https://github.com/Syncleus/Ferma)
+[link](https://github.com/Syncleus/Ferma)
 1. **Archimedes** Clojure library for Blueprints (part of the Tinkerpop graph stack).
-[Repository](https://github.com/clojurewerkz/archimedes)
+[link](https://github.com/clojurewerkz/archimedes)
 1. **Archimedes** An implementation of TinkerPop Blueprints using Accumulo.
 [link](https://github.com/JHUAPL/AccumuloGraph)
 1. **Archimedes** An implementation of TinkerPop Blueprints using Accumulo.
