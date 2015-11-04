@@ -18,7 +18,7 @@ Step 2. The item should fall under the appropriate category.
 
 
 
-### <A NAME="Tinkerpop3"></A>List for Tinkerpop 3 libraries
+### <A NAME="Tinkerpop3"></A>Tinkerpop 3 libraries
 1. **Tinkerpop3 implementation** Mirror of Apache TinkerPop (Incubating). 
 [Repository](https://github.com/apache/incubator-tinkerpop) and [site](http://tinkerpop.incubator.apache.org/)
 1. **Peapod** A new object-graph-wrapper for the Tinkerpop 3 graph stack.
@@ -27,7 +27,7 @@ Step 2. The item should fall under the appropriate category.
 [Repository](https://github.com/rmagen/elastic-gremlin)
 
 
-### <A NAME="Tinkerpop2"></A>List for Tinkerpop 2 libraries
+### <A NAME="Tinkerpop2"></A>Tinkerpop 2 libraries
 1. **Ferma** https://github.com/Syncleus/Ferma
 [Repository](https://github.com/Syncleus/Ferma)
 
