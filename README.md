@@ -39,6 +39,8 @@ Step 2. The item should fall under the appropriate category.
 [Repository](https://github.com/Syncleus/Ferma)
 1. **Archimedes** Clojure library for Blueprints (part of the Tinkerpop graph stack).
 [Repository](https://github.com/clojurewerkz/archimedes)
+1. **Archimedes** An implementation of TinkerPop Blueprints using Accumulo.
+[link](https://github.com/JHUAPL/AccumuloGraph)
 
 
 ## License
