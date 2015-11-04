@@ -35,7 +35,8 @@ Step 2. The item should fall under the appropriate category.
 [link](https://github.com/jbmusso/tinkergraph-js)
 1. **neo4j-tinkerpop-api** Apache Licensed Neo4j API for Tinkerpop3
 [link](https://github.com/neo4j-contrib/neo4j-tinkerpop-api)
-
+1. **gremlin-javascript** JavaScript graph database client for TinkerPop3 Gremlin Server
+[link](https://github.com/jbmusso/gremlin-javascript)
 
 ### <A NAME="Tinkerpop2"></A>Tinkerpop 2 libraries
 1. **Ferma** An active reworking of tinkerpop frames
