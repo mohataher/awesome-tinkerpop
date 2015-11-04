@@ -45,7 +45,8 @@ Step 2. The item should fall under the appropriate category.
 [link](https://github.com/JHUAPL/AccumuloGraph)
 1. **Frontenac** A .NET port of the Tinkerpop Stack
 [link](https://github.com/Loupi/Frontenac)
-
+1. **Mogwai** Tinkerpop Graph Database Library for Python
+[link](https://github.com/platinummonkey/mogwai)
 
 ## License
 ```
