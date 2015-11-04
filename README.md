@@ -46,9 +46,7 @@ Step 2. The item should fall under the appropriate category.
 [link](https://github.com/Syncleus/Ferma)
 1. **Archimedes** Clojure library for Blueprints (part of the Tinkerpop graph stack).
 [link](https://github.com/clojurewerkz/archimedes)
-1. **Archimedes** An implementation of TinkerPop Blueprints using Accumulo.
-[link](https://github.com/JHUAPL/AccumuloGraph)
-1. **Archimedes** An implementation of TinkerPop Blueprints using Accumulo.
+1. **AccumuloGraph** An implementation of TinkerPop Blueprints using Accumulo.
 [link](https://github.com/JHUAPL/AccumuloGraph)
 1. **Frontenac** A .NET port of the Tinkerpop Stack
 [link](https://github.com/Loupi/Frontenac)
