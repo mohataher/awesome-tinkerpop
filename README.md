@@ -37,7 +37,8 @@ Step 2. The item should fall under the appropriate category.
 ### <A NAME="Tinkerpop2"></A>Tinkerpop 2 libraries
 1. **Ferma** An active reworking of tinkerpop frames
 [Repository](https://github.com/Syncleus/Ferma)
-
+1. **Archimedes** Clojure library for Blueprints (part of the Tinkerpop graph stack).
+[Repository](https://github.com/clojurewerkz/archimedes)
 
 
 ## License
