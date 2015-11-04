@@ -25,6 +25,13 @@ Step 2. The item should fall under the appropriate category.
 [Peapod](https://github.com/bayofmany/peapod)
 1. **Elastic Gremlin** TinkerPop 3 implementation on Elasticsearch backend
 [Repository](https://github.com/rmagen/elastic-gremlin)
+1. **ts-tinkerpop** Utilities for using Tinkerpop3 via the node-java API in Typescript
+[Repository](https://github.com/RedSeal-co/ts-tinkerpop)
+1. **Gremlin Scala** Scala wrapper for Apache TinkerPop 3 Graph DSL
+[Repository](https://github.com/mpollmeier/gremlin-scala)
+1. **ogre** Clojure library for querying TinkerPop graphs http://ogre.clojurewerkz.org/
+[Repository](https://github.com/clojurewerkz/ogre)
+
 
 
 ### <A NAME="Tinkerpop2"></A>Tinkerpop 2 libraries
