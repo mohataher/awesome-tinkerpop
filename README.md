@@ -31,7 +31,10 @@ Step 2. The item should fall under the appropriate category.
 [Repository](https://github.com/mpollmeier/gremlin-scala)
 1. **ogre** Clojure library for querying TinkerPop graphs http://ogre.clojurewerkz.org/
 [Repository](https://github.com/clojurewerkz/ogre)
-
+1. **tinkergraph-js** A pure JavaScript implementation of TinkerPop's TinkerGraph in-memory graph database
+[link](https://github.com/jbmusso/tinkergraph-js)
+1. **neo4j-tinkerpop-api** Apache Licensed Neo4j API for Tinkerpop3
+[link](https://github.com/neo4j-contrib/neo4j-tinkerpop-api)
 
 
 ### <A NAME="Tinkerpop2"></A>Tinkerpop 2 libraries
