@@ -49,6 +49,9 @@ Step 2. The item should fall under the appropriate category.
 [link](https://github.com/platinummonkey/mogwai)
 1. **spring-data-gremlin** Spring data gremlin makes it easier to implement Graph based repositories. This module extends Spring Data to allow support for potentially any Graph database that implements the Tinkerpop Blueprints 2.x API.
 [link](https://github.com/gjrwebber/spring-data-gremlin)
+1. **blueprints-scala** Tinkerpop Blueprints Scala
+[link](https://github.com/anvie/blueprints-scala)
+
 
 ## License
 ```
