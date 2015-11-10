@@ -44,6 +44,8 @@ Step 2. The item should fall under the appropriate category.
 ### <A NAME="Tinkerpop2"></A>Tinkerpop 2 libraries
 1. **Ferma** An active reworking of tinkerpop frames
 [link](https://github.com/Syncleus/Ferma)
+1. **Frames** An Object to Graph Framework
+[link](https://github.com/tinkerpop/frames)
 1. **Archimedes** Clojure library for Blueprints (part of the Tinkerpop graph stack).
 [link](https://github.com/clojurewerkz/archimedes)
 1. **AccumuloGraph** An implementation of TinkerPop Blueprints using Accumulo.
