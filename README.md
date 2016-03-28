@@ -16,7 +16,7 @@ A curated list of only awesome Tinkerpop libraries on Github.
     * [Tinkerpop3 implementation](https://github.com/apache/incubator-tinkerpop) Mirror of Apache Tinkerpop (Incubating).
  * [sqlg](https://github.com/pietermartin/sqlg) Sqlg is a implementation of Tinkerpop3 on a RDBMS.
  * [tinkergraph-js](https://github.com/jbmusso/tinkergraph-js) A pure JavaScript implementation of TinkerPop's TinkerGraph in-memory graph database.
-   * [gremlin-javascript](https://github.com/jbmusso/gremlin-javascript) JavaScript graph database client for TinkerPop3 Gremlin Server.
+ * [gremlin-javascript](https://github.com/jbmusso/gremlin-javascript) JavaScript graph database client for TinkerPop3 Gremlin Server.
 
 * <A NAME="ogm"></A>OGM/ORM
  * [Peapod](https://github.com/bayofmany/peapod) A new object-graph-wrapper for the Tinkerpop 3 graph stack.
