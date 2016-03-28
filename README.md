@@ -47,7 +47,7 @@ A curated list of only awesome Tinkerpop libraries on Github.
 ## How To Contribute
 Step 1. Add an item as follows:
 ```
-[Library Name](link)[one space]Short Description[.][one space]
+[Library Name](link)[one space]Short Description[.]
 ```
 
 Step 2. The item should fall under the appropriate category.
