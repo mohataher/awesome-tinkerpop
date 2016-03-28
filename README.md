@@ -46,21 +46,21 @@ A curated list of all Tinkerpop useful libraries on Github.
     
 
 ### <A NAME="Tinkerpop2"></A>Tinkerpop 2 libraries
-1. **Ferma** An active reworking of tinkerpop frames
+* **Ferma** An active reworking of tinkerpop frames
 [link](https://github.com/Syncleus/Ferma)
-1. **Frames** An Object to Graph Framework
+* **Frames** An Object to Graph Framework
 [link](https://github.com/tinkerpop/frames)
-1. **Archimedes** Clojure library for Blueprints (part of the Tinkerpop graph stack).
+* **Archimedes** Clojure library for Blueprints (part of the Tinkerpop graph stack).
 [link](https://github.com/clojurewerkz/archimedes)
-1. **AccumuloGraph** An implementation of TinkerPop Blueprints using Accumulo.
+* **AccumuloGraph** An implementation of TinkerPop Blueprints using Accumulo.
 [link](https://github.com/JHUAPL/AccumuloGraph)
-1. **Frontenac** A .NET port of the Tinkerpop Stack
+* **Frontenac** A .NET port of the Tinkerpop Stack
 [link](https://github.com/Loupi/Frontenac)
-1. **Mogwai** Tinkerpop Graph Database Library for Python
+* **Mogwai** Tinkerpop Graph Database Library for Python
 [link](https://github.com/platinummonkey/mogwai)
-1. **spring-data-gremlin** Spring data gremlin makes it easier to implement Graph based repositories. This module extends Spring Data to allow support for potentially any Graph database that implements the Tinkerpop Blueprints 2.x API.
+* **spring-data-gremlin** Spring data gremlin makes it easier to implement Graph based repositories. This module extends Spring Data to allow support for potentially any Graph database that implements the Tinkerpop Blueprints 2.x API.
 [link](https://github.com/gjrwebber/spring-data-gremlin)
-1. **blueprints-scala** Tinkerpop Blueprints Scala
+* **blueprints-scala** Tinkerpop Blueprints Scala
 [link](https://github.com/anvie/blueprints-scala)
 
 ## How To Contribute
