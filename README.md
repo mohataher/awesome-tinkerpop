@@ -2,16 +2,6 @@
 
 A curated list of all Tinkerpop useful libraries on Github.
 
-## How To Contribute
-Step 1. Add an item as follows:
-```
-**Library Name**[one space]Short Description[at least four space,then press enter]
-[link](link)
-```
-
-Step 2. The item should fall under the appropriate category.
-
-
 ### Table of contents
 * [Tinkerpop3](#Tinkerpop3)
 	- Implementations
@@ -73,6 +63,14 @@ Step 2. The item should fall under the appropriate category.
 1. **blueprints-scala** Tinkerpop Blueprints Scala
 [link](https://github.com/anvie/blueprints-scala)
 
+## How To Contribute
+Step 1. Add an item as follows:
+```
+**Library Name**[one space]Short Description[at least four space,then press enter]
+[link](link)
+```
+
+Step 2. The item should fall under the appropriate category.
 
 ## License
 ```
