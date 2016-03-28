@@ -13,8 +13,7 @@ A curated list of only awesome Tinkerpop libraries on Github.
 
 ### <A NAME="Tinkerpop3"></A>Tinkerpop 3 libraries
 * <A NAME="Tinkerpop3-Implementations"></A>Implementations
-    * **Tinkerpop3 implementation** Mirror of Apache Tinkerpop (Incubating). 
-[link](https://github.com/apache/incubator-tinkerpop) and [site](http://tinkerpop.incubator.apache.org/)
+    * **[Tinkerpop3 implementation](http://tinkerpop.incubator.apache.org/)** Mirror of Apache Tinkerpop (Incubating). Another link (https://github.com/apache/incubator-tinkerpop).
  * **sqlg** Sqlg is a implementation of Tinkerpop3 on a RDBMS. [link](https://github.com/pietermartin/sqlg)
  * **tinkergraph-js** A pure JavaScript implementation of TinkerPop's TinkerGraph in-memory graph database
 [link](https://github.com/jbmusso/tinkergraph-js)
