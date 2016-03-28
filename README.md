@@ -30,6 +30,7 @@ A curated list of only awesome Tinkerpop libraries on Github.
     * [gremlin-php](https://github.com/PommeVerte/gremlin-php) gremlin-server php driver compatible with TinkerPop3. It will allow you to connect to gremlin-server and it's backends (Neo4J, Titan, etc.).
    * [go-gremlin](https://github.com/go-gremlin/gremlin) Go graph database client for TinkerPop3 Gremlin Server
    *  [gremlin-haskell](https://github.com/nakaji-dayo/gremlin-haskell) Haskell graph database client for TinkerPop3 Gremlin Server.
+   * [Mogwai](https://github.com/platinummonkey/mogwai) Tinkerpop3 Graph Database Library for Python.
 
     
 
@@ -39,7 +40,7 @@ A curated list of only awesome Tinkerpop libraries on Github.
 * [Archimedes](https://github.com/clojurewerkz/archimedes) Clojure library for Blueprints (part of the Tinkerpop graph stack).
 * [AccumuloGraph](https://github.com/JHUAPL/AccumuloGraph) An implementation of TinkerPop Blueprints using Accumulo.
 * [Frontenac](https://github.com/Loupi/Frontenac) A .NET port of the Tinkerpop Stack.
-* [Mogwai](https://github.com/platinummonkey/mogwai) Tinkerpop Graph Database Library for Python.
+* [Mogwai](https://github.com/platinummonkey/mogwai) Tinkerpop 2 Graph Database Library for Python.
 * [spring-data-gremlin](https://github.com/gjrwebber/spring-data-gremlin) Spring data gremlin makes it easier to implement Graph based repositories. This module extends Spring Data to allow support for potentially any Graph database that implements the Tinkerpop Blueprints 2.x API.
 * [blueprints-scala](https://github.com/anvie/blueprints-scala) Tinkerpop Blueprints Scala.
 
