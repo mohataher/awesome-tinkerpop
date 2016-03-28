@@ -25,7 +25,7 @@ Step 2. The item should fall under the appropriate category.
     * **Tinkerpop3 implementation** Mirror of Apache Tinkerpop (Incubating). 
 [link](https://github.com/apache/incubator-tinkerpop) and [site](http://tinkerpop.incubator.apache.org/)
  * **sqlg** Sqlg is a implementation of Tinkerpop3 on a RDBMS. [link](https://github.com/pietermartin/sqlg)
-    * **tinkergraph-js** A pure JavaScript implementation of TinkerPop's TinkerGraph in-memory graph database
+ * **tinkergraph-js** A pure JavaScript implementation of TinkerPop's TinkerGraph in-memory graph database
 [link](https://github.com/jbmusso/tinkergraph-js)
    * **gremlin-javascript** JavaScript graph database client for TinkerPop3 Gremlin Server
 [link](https://github.com/jbmusso/gremlin-javascript)
