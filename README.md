@@ -44,6 +44,25 @@ A curated list of only awesome Tinkerpop libraries on Github.
 * [spring-data-gremlin](https://github.com/gjrwebber/spring-data-gremlin) Spring data gremlin makes it easier to implement Graph based repositories. This module extends Spring Data to allow support for potentially any Graph database that implements the Tinkerpop Blueprints 2.x API.
 * [blueprints-scala](https://github.com/anvie/blueprints-scala) Tinkerpop Blueprints Scala.
 
+## Communities
+* [Gremlin-users](https://groups.google.com/forum/#!forum/gremlin-users) Mailing list for Gremlin users,
+* [StackOverflow](http://stackoverflow.com/questions/tagged/tinkerpop3) StackOverflow has a relatively active community.
+* [Tinkerpop-dev](http://mail-archives.apache.org/mod_mbox/incubator-tinkerpop-dev/) Mailing list for TP3 deverlopers.
+
+## People to follow 
+* [Marko Rodriguez](https://markorodriguez.com/) Founder of Tinkerpop and Aurelius.
+* [Stephen Mallette](https://twitter.com/spmallette?lang=en-gb) Senior developer for Gremlin, Tinkerpop and Titan DB.
+* [Daniel Kuppitz](https://about.me/daniel.kuppitz) One of the main developers of Gremlin.
+* [Jason Plurad](https://github.com/pluradj) Senior Developer at IBM. Tinkerpop committer and active on the community.
+* [Mohamed Taher Alrefaie](https://github.com/mohataher) Maintainer of this repository
+
+## Tutorials and Resources
+* [Introduction to Gremlin](http://tinkerpop.apache.org/gremlin.html) Official introduction to the Gremlin language.
+* [Datastax Introduction](https://academy.datastax.com/resources/getting-started-tinkerpop-and-gremlin) A tutorial provided by Datastax to Gremlin and Tinkerpop 3.
+* [Tinkerpop Book](http://www.tinkerpopbook.com/) A long promised book for Tinkeprop but never fulfilled until now. You cans till request a notification.
+* [Linux Foundation Presentation](http://events.linuxfoundation.org/sites/events/files/slides/ApacheCon2015TinkerPop3.pdf) A presentation by Linux Foundation given by David Robinson at IBM aboit Apache Tinkerpop.
+
+
 ## How To Contribute
 Step 1. Add an item as follows:
 ```
