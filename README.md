@@ -9,8 +9,8 @@ A curated list of only awesome Tinkerpop libraries on Github.
 	- [Wrappers/clients](#wrappers)
 * [Tinkerpop2](#Tinkerpop2)
 * [Communites](#communites)
-* [People to Follow](#p2f)
-* [Tutorials and Resources](#t&r)
+* [People to Follow](#people-to-follow)
+* [Tutorials and Resources](#tutorials-and-resources)
 * [How to Contribute](#contributing)
 * [License](#license)
 
@@ -54,14 +54,14 @@ A curated list of only awesome Tinkerpop libraries on Github.
 * [StackOverflow](http://stackoverflow.com/questions/tagged/tinkerpop3) StackOverflow has a relatively active community.
 * [Tinkerpop-dev](http://mail-archives.apache.org/mod_mbox/incubator-tinkerpop-dev/) Mailing list for TP3 deverlopers.
 
-## <A NAME="p2f"></A>People to Follow 
+## <A NAME="people-to-follow"></A>People to Follow 
 * [Marko Rodriguez](https://markorodriguez.com/) Founder of Tinkerpop and Aurelius.
 * [Stephen Mallette](https://twitter.com/spmallette?lang=en-gb) Senior developer for Gremlin, Tinkerpop and Titan DB.
 * [Daniel Kuppitz](https://about.me/daniel.kuppitz) One of the main developers of Gremlin.
 * [Jason Plurad](https://github.com/pluradj) Senior Developer at IBM. Tinkerpop committer and active on the community.
 * [Mohamed Taher Alrefaie](https://github.com/mohataher) Maintainer of this repository
 
-## <A NAME="t&r"></A>Tutorials and Resources
+## <A NAME="tutorials-and-resources"></A>Tutorials and Resources
 * [Introduction to Gremlin](http://tinkerpop.apache.org/gremlin.html) Official introduction to the Gremlin language.
 * [Datastax Introduction](https://academy.datastax.com/resources/getting-started-tinkerpop-and-gremlin) A tutorial provided by Datastax to Gremlin and Tinkerpop 3.
 * [Tinkerpop Book](http://www.tinkerpopbook.com/) A long promised book for Tinkeprop but never fulfilled until now. You cans till request a notification.
