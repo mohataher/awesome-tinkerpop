@@ -59,7 +59,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [Stephen Mallette](https://twitter.com/spmallette?lang=en-gb) Senior developer for Gremlin, TinkerPop and Titan DB.
 * [Daniel Kuppitz](https://about.me/daniel.kuppitz) One of the main developers of Gremlin.
 * [Jason Plurad](https://github.com/pluradj) Senior Developer at IBM. TinkerPop committer and active on the community.
-* [Mohamed Taher Alrefaie](https://github.com/mohataher) Maintainer of this repository
+* [Mohamed Taher Alrefaie](https://github.com/mohataher) Maintainer of this repository.
 
 ## <A NAME="tutorials-and-resources"></A>Tutorials and Resources
 * [Introduction to Gremlin](http://tinkerpop.apache.org/gremlin.html) Official introduction to the Gremlin language.
