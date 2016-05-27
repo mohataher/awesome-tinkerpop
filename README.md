@@ -2,6 +2,8 @@
 
 A curated list of only awesome TinkerPop libraries on Github.
 
+>The main idea is that everyone can contribute here, so we can center all the informations about TinkerPop and keep up-to-date.
+
 ### Table of contents
 * [TinkerPop3](#tinkerpop3)
 	- [Implementations](#tinkerpop3-implementations)
