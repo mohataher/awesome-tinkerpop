@@ -49,7 +49,7 @@ A curated list of only awesome Tinkerpop libraries on Github.
 * [StackOverflow](http://stackoverflow.com/questions/tagged/tinkerpop3) StackOverflow has a relatively active community.
 * [Tinkerpop-dev](http://mail-archives.apache.org/mod_mbox/incubator-tinkerpop-dev/) Mailing list for TP3 deverlopers.
 
-## People to follow 
+## People to Follow 
 * [Marko Rodriguez](https://markorodriguez.com/) Founder of Tinkerpop and Aurelius.
 * [Stephen Mallette](https://twitter.com/spmallette?lang=en-gb) Senior developer for Gremlin, Tinkerpop and Titan DB.
 * [Daniel Kuppitz](https://about.me/daniel.kuppitz) One of the main developers of Gremlin.
@@ -64,12 +64,7 @@ A curated list of only awesome Tinkerpop libraries on Github.
 
 
 ## How To Contribute
-Step 1. Add an item as follows:
-```
-[Library Name](link)[one space]Short Description[.]
-```
-
-Step 2. The item should fall under the appropriate category.
+Please follow the [guideliness here](contributing.md).
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
