@@ -76,7 +76,9 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 
 ## <A NAME="contributing"></A>How To Contribute
-Please follow the [guideliness here](contributing.md).
+Please follow the [guideliness here](contributing.md). Please, make sure your contribution and PR are awesome!
+![alt tag](awesome-tinkerpop.jpg)
+
 
 ## <A NAME="license"></A>License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
