@@ -7,7 +7,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 >Apache TinkerPop™ is a graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP).
 
-### Table of contents
+### Table of Contents
 * [TinkerPop3](#tinkerpop3)
 	- [Implementations](#tinkerpop3-implementations)
 	- [OGM/ORM libraries](#ogm)
