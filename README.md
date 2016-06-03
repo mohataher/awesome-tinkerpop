@@ -21,7 +21,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 
 
-### <A NAME="tinkerpop3"></A>TinkerPop3 libraries
+### <A NAME="tinkerpop3"></A>TinkerPop3 Libraries
 * <A NAME="tinkerpop3-implementations"></A>Implementations
     * [TinkerPop3 implementation](https://github.com/apache/incubator-tinkerpop) Mirror of Apache TinkerPop (Incubating).
  * [sqlg](https://github.com/pietermartin/sqlg) - Sqlg is a implementation of TinkerPop3 on a RDBMS.
@@ -32,7 +32,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * <A NAME="ogm"></A>OGM/ORM
  * [Peapod](https://github.com/bayofmany/peapod) - A new object-graph-wrapper for the TinkerPop3 graph stack.
  * [tinkerpop3-frames](https://github.com/jsight/tinkerpop3-frames) - TinkerPop Frames ported from TinkerPop2 to TinkerPop3.
-* <A NAME="wrappers"></A>Wrappers/clients
+* <A NAME="wrappers"></A>Wrappers/Clients
     * [Elastic Gremlin](https://github.com/rmagen/elastic-gremlin) - TinkerPop3 implementation on Elasticsearch backend.
     * [ts-tinkerpop](https://github.com/RedSeal-co/ts-tinkerpop) - Utilities for using TinkerPop3 via the node-java API in Typescript.
     * [Gremlin Scala](https://github.com/mpollmeier/gremlin-scala) - Scala wrapper for Apache TinkerPop3 Graph DSL.
@@ -46,7 +46,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 
     
 
-### <A NAME="tinkerpop2"></A>TinkerPop 2 libraries
+### <A NAME="tinkerpop2"></A>TinkerPop 2 Libraries
 * [Ferma](https://github.com/Syncleus/Ferma) - An active reworking of TinkerPop frames.
 * [Frames](https://github.com/tinkerpop/frames) - An Object to Graph Framework.
 * [Archimedes](https://github.com/clojurewerkz/archimedes) - Clojure library for Blueprints (part of the TinkerPop graph stack).
@@ -75,7 +75,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [Linux Foundation Presentation](http://events.linuxfoundation.org/sites/events/files/slides/ApacheCon2015TinkerPop3.pdf) - A presentation by Linux Foundation given by David Robinson at IBM aboit Apache TinkerPop3.
 
 
-## <A NAME="contributing"></A>How To Contribute
+## <A NAME="contributing"></A>How to Contribute
 Please follow the [guideliness here](contributing.md). Please, make sure your contribution and PR are awesome!
 ![alt tag](awesome-tinkerpop.jpg)
 
