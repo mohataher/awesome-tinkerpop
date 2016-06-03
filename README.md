@@ -10,8 +10,8 @@ A curated list of only awesome TinkerPop libraries on Github.
 ### Table of Contents
 * [TinkerPop3](#tinkerpop3)
 	- [Implementations](#tinkerpop3-implementations)
-	- [OGM/ORM libraries](#ogm)
-	- [Wrappers/clients](#wrappers)
+	- [OGM/ORM Libraries](#ogm)
+	- [Wrappers/Clients](#wrappers)
 * [TinkerPop2](#tinkerpop2)
 * [Communites](#communites)
 * [People to Follow](#people-to-follow)
