@@ -1,11 +1,11 @@
-# Awesome-TinkerPop [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome TinkerPop [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ![alt tag](https://raw.githubusercontent.com/mohataher/awesome-tinkerpop/master/tinkerpop-splash.png)
 
 
 A curated list of only awesome TinkerPop libraries on Github.
 
->The main idea is that everyone can contribute here, so we can center all the informations about TinkerPop and keep up-to-date.
+>Apache TinkerPop™ is a graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP).
 
 ### Table of contents
 * [TinkerPop3](#tinkerpop3)
@@ -21,7 +21,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 
 
-### <A NAME="tinkerpop3"></A>TinkerPop 3 libraries
+### <A NAME="tinkerpop3"></A>TinkerPop3 libraries
 * <A NAME="tinkerpop3-implementations"></A>Implementations
     * [TinkerPop3 implementation](https://github.com/apache/incubator-tinkerpop) Mirror of Apache TinkerPop (Incubating).
  * [sqlg](https://github.com/pietermartin/sqlg) Sqlg is a implementation of TinkerPop3 on a RDBMS.
@@ -30,12 +30,12 @@ A curated list of only awesome TinkerPop libraries on Github.
  * [gremlin-javascript](https://github.com/jbmusso/gremlin-javascript) JavaScript graph database client for TinkerPop3 Gremlin Server.
 
 * <A NAME="ogm"></A>OGM/ORM
- * [Peapod](https://github.com/bayofmany/peapod) A new object-graph-wrapper for the TinkerPop 3 graph stack.
- * [tinkerpop3-frames](https://github.com/jsight/tinkerpop3-frames) TinkerPop Frames ported from TinkerPop 2 to TinkerPop 3.
+ * [Peapod](https://github.com/bayofmany/peapod) A new object-graph-wrapper for the TinkerPop3 graph stack.
+ * [tinkerpop3-frames](https://github.com/jsight/tinkerpop3-frames) TinkerPop Frames ported from TinkerPop2 to TinkerPop3.
 * <A NAME="wrappers"></A>Wrappers/clients
-    * [Elastic Gremlin](https://github.com/rmagen/elastic-gremlin) TinkerPop 3 implementation on Elasticsearch backend.
+    * [Elastic Gremlin](https://github.com/rmagen/elastic-gremlin) TinkerPop3 implementation on Elasticsearch backend.
     * [ts-tinkerpop](https://github.com/RedSeal-co/ts-tinkerpop) Utilities for using TinkerPop3 via the node-java API in Typescript.
-    * [Gremlin Scala](https://github.com/mpollmeier/gremlin-scala) Scala wrapper for Apache TinkerPop 3 Graph DSL.
+    * [Gremlin Scala](https://github.com/mpollmeier/gremlin-scala) Scala wrapper for Apache TinkerPop3 Graph DSL.
     * [ogre](https://github.com/clojurewerkz/ogre) Clojure library for querying TinkerPop graphs. [link](http://ogre.clojurewerkz.org/)
     * [neo4j-tinkerpop-api](https://github.com/neo4j-contrib/neo4j-tinkerpop-api) Apache Licensed Neo4j API for TinkerPop3.
     * [gremlin-php](https://github.com/PommeVerte/gremlin-php) gremlin-server php driver compatible with TinkerPop3. It will allow you to connect to gremlin-server and it's backends (Neo4J, Titan, etc.).
@@ -70,9 +70,9 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 ## <A NAME="tutorials-and-resources"></A>Tutorials and Resources
 * [Introduction to Gremlin](http://tinkerpop.apache.org/gremlin.html) Official introduction to the Gremlin language.
-* [Datastax Introduction](https://academy.datastax.com/resources/getting-started-tinkerpop-and-gremlin) A tutorial provided by Datastax to Gremlin and TinkerPop 3.
+* [Datastax Introduction](https://academy.datastax.com/resources/getting-started-tinkerpop-and-gremlin) A tutorial provided by Datastax to Gremlin and TinkerPop3.
 * [TinkerPop Book](http://www.tinkerpopbook.com/) A long promised book for Tinkeprop but never fulfilled until now. You cans till request a notification.
-* [Linux Foundation Presentation](http://events.linuxfoundation.org/sites/events/files/slides/ApacheCon2015TinkerPop3.pdf) A presentation by Linux Foundation given by David Robinson at IBM aboit Apache TinkerPop 3.
+* [Linux Foundation Presentation](http://events.linuxfoundation.org/sites/events/files/slides/ApacheCon2015TinkerPop3.pdf) A presentation by Linux Foundation given by David Robinson at IBM aboit Apache TinkerPop3.
 
 
 ## <A NAME="contributing"></A>How To Contribute
