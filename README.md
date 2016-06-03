@@ -39,7 +39,7 @@ A curated list of only awesome TinkerPop libraries on Github.
     * [ogre](https://github.com/clojurewerkz/ogre) - Clojure library for querying TinkerPop graphs.
     * [neo4j-tinkerpop-api](https://github.com/neo4j-contrib/neo4j-tinkerpop-api) - Apache Licensed Neo4j API for TinkerPop3.
     * [gremlin-php](https://github.com/PommeVerte/gremlin-php) - gremlin-server php driver compatible with TinkerPop3. It will allow you to connect to gremlin-server and it's backends (Neo4J, Titan, etc.).
-   * [go-gremlin](https://github.com/go-gremlin/gremlin) - Go graph database client for TinkerPop3 Gremlin Server
+   * [go-gremlin](https://github.com/go-gremlin/gremlin) - Go graph database client for TinkerPop3 Gremlin Server.
    *  [gremlin-haskell](https://github.com/nakaji-dayo/gremlin-haskell) - Haskell graph database client for TinkerPop3 Gremlin Server.
    * [Mogwai](https://github.com/platinummonkey/mogwai) - TinkerPop3 Graph Database Library for Python.
    * [Gremgo](https://github.com/qasaur/gremgo) - A fast, efficient, and easy-to-use Go client for the TinkerPop graph database stack.
@@ -57,7 +57,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [blueprints-scala](https://github.com/anvie/blueprints-scala) - TinkerPop Blueprints Scala.
 
 ## <A NAME="communites"></A>Communities
-* [Gremlin-users](https://groups.google.com/forum/#!forum/gremlin-users) - Mailing list for Gremlin users,
+* [Gremlin-users](https://groups.google.com/forum/#!forum/gremlin-users) - Mailing list for Gremlin users.
 * [StackOverflow](http://stackoverflow.com/questions/tagged/tinkerpop3) - Stack Overflow has a relatively active community.
 * [TinkerPop-dev](http://mail-archives.apache.org/mod_mbox/incubator-tinkerpop-dev/) - Mailing list for TP3 deverlopers.
 
