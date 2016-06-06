@@ -58,7 +58,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 ## <A NAME="communites"></A>Communities
 * [Gremlin-users](https://groups.google.com/forum/#!forum/gremlin-users) - Mailing list for Gremlin users.
-* [StackOverflow](http://stackoverflow.com/questions/tagged/tinkerpop3) - Stack Overflow has a relatively active community.
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/tinkerpop3) - Stack Overflow has a relatively active community.
 * [TinkerPop-dev](http://mail-archives.apache.org/mod_mbox/incubator-tinkerpop-dev/) - Mailing list for TP3 deverlopers.
 
 ## <A NAME="people-to-follow"></A>People to Follow 
