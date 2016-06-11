@@ -19,8 +19,6 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [How to Contribute](#contributing)
 * [License](#license)
 
-
-
 ### <A NAME="tinkerpop3"></A>TinkerPop3 Libraries
 #### <A NAME="tinkerpop3-implementations"></A>Implementations
 * [TinkerPop3 implementation](https://github.com/apache/incubator-tinkerpop) - Mirror of Apache TinkerPop (Incubating).
@@ -29,7 +27,16 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [tinkergraph-js](https://github.com/jbmusso/tinkergraph-js) - A pure JavaScript implementation of TinkerPop's TinkerGraph in-memory graph database.
 * [gremlin-javascript](https://github.com/jbmusso/gremlin-javascript) - JavaScript graph database client for TinkerPop3 Gremlin Server.
 * [Elastic Gremlin](https://github.com/rmagen/elastic-gremlin) - TinkerPop3 implementation on Elasticsearch backend.
-
+* [Hadoop (Giraph)](http://tinkerpop.apache.org/docs/current/reference/#giraphgraphcomputer) - OLAP graph processor using Giraph.
+* [Hadoop (Spark)](http://tinkerpop.apache.org/docs/current/reference/#sparkgraphcomputer) - OLAP graph processor using Spark.
+* [IBM Graph](https://console.ng.bluemix.net/catalog/services/ibm-graph/) - OLTP graph database as a service.
+* [Neo4j](http://tinkerpop.apache.org/docs/currentg/#neo4j-gremlin) - OLTP graph database.
+* [Stardog](http://stardog.com/) - RDF graph database with OLTP and OLAP support.
+* [TinkerGraph](http://tinkerpop.apache.org/docs/current/reference/#tinkergraph-gremlin) - In-memory OLTP and OLAP reference implementation.
+* [Titan](http://thinkaurelius.github.io/titan/) - Distributed OLTP and OLAP graph database with BerkeleyDB, Cassandra and HBase support.
+* [Titan (Amazon)](https://github.com/awslabs/dynamodb-titan-storage-backend) - The Amazon DynamoDB storage backend for Titan.
+* [Titan (Tupl)](https://github.com/classmethod/tupl-titan-storage-backend) - The Tupl storage backend for Titan.
+* [Unipop](https://github.com/rmagen/unipop) - OLTP Elasticsearch and JDBC backed graph.
 
 #### <A NAME="ogm"></A>OGM/ORM
 * [Peapod](https://github.com/bayofmany/peapod) - A new object-graph-wrapper for the TinkerPop3 graph stack.
