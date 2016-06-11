@@ -10,7 +10,6 @@ A curated list of only awesome TinkerPop libraries on Github.
 ### Table of Contents
 * [TinkerPop3](#tinkerpop3)
 	- [Implementations](#tinkerpop3-implementations)
-	- [OGM/ORM Libraries](#ogm)
 	- [Wrappers/Clients](#wrappers)
 	- [Query Languages](#qlang)
 * [TinkerPop2](#tinkerpop2)
@@ -38,10 +37,6 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [Titan (Amazon)](https://github.com/awslabs/dynamodb-titan-storage-backend) - The Amazon DynamoDB storage backend for Titan.
 * [Titan (Tupl)](https://github.com/classmethod/tupl-titan-storage-backend) - The Tupl storage backend for Titan.
 * [Unipop](https://github.com/rmagen/unipop) - OLTP Elasticsearch and JDBC backed graph.
-
-#### <A NAME="ogm"></A>OGM/ORM
-* [Peapod](https://github.com/bayofmany/peapod) - A new object-graph-wrapper for the TinkerPop3 graph stack.
-* [tinkerpop3-frames](https://github.com/jsight/tinkerpop3-frames) - TinkerPop Frames ported from TinkerPop2 to TinkerPop3.
 
 #### <A NAME="wrappers"></A>Wrappers/Clients
 ##### C# .NET
