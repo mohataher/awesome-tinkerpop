@@ -28,23 +28,51 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [blazegraph](https://github.com/blazegraph/database) - TinkerPop3 [implementation](https://github.com/blazegraph/tinkerpop3) for Blaze Graph; a high performance graph database.
 * [tinkergraph-js](https://github.com/jbmusso/tinkergraph-js) - A pure JavaScript implementation of TinkerPop's TinkerGraph in-memory graph database.
 * [gremlin-javascript](https://github.com/jbmusso/gremlin-javascript) - JavaScript graph database client for TinkerPop3 Gremlin Server.
+* [Elastic Gremlin](https://github.com/rmagen/elastic-gremlin) - TinkerPop3 implementation on Elasticsearch backend.
+
 
 #### <A NAME="ogm"></A>OGM/ORM
 * [Peapod](https://github.com/bayofmany/peapod) - A new object-graph-wrapper for the TinkerPop3 graph stack.
 * [tinkerpop3-frames](https://github.com/jsight/tinkerpop3-frames) - TinkerPop Frames ported from TinkerPop2 to TinkerPop3.
 
 #### <A NAME="wrappers"></A>Wrappers/Clients
-* [Elastic Gremlin](https://github.com/rmagen/elastic-gremlin) - TinkerPop3 implementation on Elasticsearch backend.
-* [ts-tinkerpop](https://github.com/RedSeal-co/ts-tinkerpop) - Utilities for using TinkerPop3 via the node-java API in Typescript.
-* [Gremlin Scala](https://github.com/mpollmeier/gremlin-scala) - Scala wrapper for Apache TinkerPop3 Graph DSL.
+##### C# .NET
+*   [Teva Gremlin](https://www.nuget.org/packages/Teva.Common.Data.Gremlin/) (.NET - C#) - A Gremlin Server driver for .NET.
+
+##### Clojure
 * [ogre](https://github.com/clojurewerkz/ogre) - Clojure library for querying TinkerPop graphs.
-* [neo4j-tinkerpop-api](https://github.com/neo4j-contrib/neo4j-tinkerpop-api) - Apache Licensed Neo4j API for TinkerPop3.
-* [gremlin-php](https://github.com/PommeVerte/gremlin-php) - gremlin-server php driver compatible with TinkerPop3. It will allow you to connect to gremlin-server and it's backends (Neo4J, Titan, etc.).
+* [scalajs-gremlin-client](https://github.com/viagraphs/scalajs-gremlin-client) (scala) - A Gremlin-Server client with ad-hoc extensible, reactive, typeclass based API.
+
+##### Go
 * [go-gremlin](https://github.com/go-gremlin/gremlin) - Go graph database client for TinkerPop3 Gremlin Server.
-*  [gremlin-haskell](https://github.com/nakaji-dayo/gremlin-haskell) - Haskell graph database client for TinkerPop3 Gremlin Server.
-* [Mogwai](https://github.com/platinummonkey/mogwai) - TinkerPop3 Graph Database Library for Python.
 * [Gremgo](https://github.com/qasaur/gremgo) - A fast, efficient, and easy-to-use Go client for the TinkerPop graph database stack.
 
+##### Haskell
+* [gremlin-haskell](https://github.com/nakaji-dayo/gremlin-haskell) - Haskell graph database client for TinkerPop3 Gremlin Server.
+
+##### Java
+* [gremlin-driver](http://tinkerpop.apache.org/docs/current/reference/#connecting-via-java) (java) - A Gremlin Server driver for Java.
+* [neo4j-tinkerpop-api](https://github.com/neo4j-contrib/neo4j-tinkerpop-api) - Apache Licensed Neo4j API for TinkerPop3.
+
+##### Javascript
+* [ts-tinkerpop](https://github.com/RedSeal-co/ts-tinkerpop) - Utilities for using TinkerPop3 via the node-java API in Typescript.
+* [gremlin-javascript](https://github.com/jbmusso/gremlin-javascript) (js) - A Gremlin Server driver for JavaScript.
+
+##### PHP
+* [gremlin-php](https://github.com/PommeVerte/gremlin-php) - gremlin-server php driver compatible with TinkerPop3. It will allow you to connect to gremlin-server and it's backends (Neo4J, Titan, etc.).
+
+##### Python
+* [Mogwai](https://github.com/platinummonkey/mogwai) - TinkerPop3 Graph Database Library for Python.
+* [python-gremlin-rest](https://github.com/windj007/python-gremlin-rest) - A REST-based client for Gremlin Server.
+* [gremlinclient](https://github.com/davebshow/gremlinclient) - An asynchronous Python 2/3 client for Gremlin Server that allows for flexible coroutine syntax - Trollius, Tornado, Asyncio.
+* [aiogremlin](https://github.com/davebshow/aiogremlin) (python) - A Python 3 library based on asyncio and aiohttp that uses websockets to communicate with the Gremlin Server.
+* [gremlinrestclient](http://gremlinrestclient.readthedocs.org/en/latest/) (python) - Python 2/3 library that uses HTTP to communicate with the Gremlin Server over REST.
+
+##### Reactive
+* [reactive-gremlin](https://github.com/coreyauger/reactive-gremlin) (scala) - An Akka HTTP Websocket Connector.
+
+##### Scala
+* [Gremlin Scala](https://github.com/mpollmeier/gremlin-scala) - Scala wrapper for Apache TinkerPop3 Graph DSL.
     
 ### <A NAME="tinkerpop2"></A>TinkerPop 2 Libraries
 * [Ferma](https://github.com/Syncleus/Ferma) - An active reworking of TinkerPop frames.
