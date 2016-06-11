@@ -88,14 +88,14 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [blueprints-scala](https://github.com/anvie/blueprints-scala) - TinkerPop Blueprints Scala.
 
 #### <A NAME="qlang"></A>Query Languages
-* [gremlin-py](https://github.com/emehrkay/gremlinpy) (python/variant) - Write pure Python Gremlin that can be sent to Gremlin Server.
-* [gremlin-scala](https://github.com/mpollmeier/gremlin-scala) (scala/variant) - A Scala language wrapper for TinkerPop3.
-* [gremlin-template-string](https://github.com/jbmusso/gremlin-template-string) (js/variant) - A Gremlin language builder.
-* [ipython-gremlin](https://github.com/davebshow/ipython-gremlin) (python/variant) - Gremlin in IPython and Jupyter.
-* [ogre](http://ogre.clojurewerkz.org/) (clojure/variant) - A Clojure language wrapper for TinkerPop3.
-* [Peapod](http://bayofmany.github.io/) (java/dsl) - An object-graph-wrapper.
-* [sparql-gremlin](https://github.com/dkuppitz/sparql-gremlin) (sparql/distinct) - A SPARQL to Gremlin traversal compiler.
-* [sql-gremlin](https://github.com/twilmes/sql-gremlin) (sql/distinct) - An SQL to Gremlin traversal compiler.
+* [gremlin-py](https://github.com/emehrkay/gremlinpy) - Write pure Python Gremlin that can be sent to Gremlin Server.
+* [gremlin-scala](https://github.com/mpollmeier/gremlin-scala) - A Scala language wrapper for TinkerPop3.
+* [gremlin-template-string](https://github.com/jbmusso/gremlin-template-string) - A Javascript Gremlin language builder.
+* [ipython-gremlin](https://github.com/davebshow/ipython-gremlin) - Gremlin in IPython and Jupyter.
+* [ogre](http://ogre.clojurewerkz.org/) - A Clojure language wrapper for TinkerPop3.
+* [Peapod](https://github.com/bayofmany/peapod) - A new object-graph-wrapper for the Tinkerpop 3 graph stack.
+* [sparql-gremlin](https://github.com/dkuppitz/sparql-gremlin) - A SPARQL to Gremlin traversal compiler.
+* [sql-gremlin](https://github.com/twilmes/sql-gremlin) - A SQL to Gremlin traversal compiler.
 
 
 ## <A NAME="communites"></A>Communities
