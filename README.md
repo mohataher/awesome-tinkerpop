@@ -12,6 +12,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 	- [Implementations](#tinkerpop3-implementations)
 	- [OGM/ORM Libraries](#ogm)
 	- [Wrappers/Clients](#wrappers)
+	- [Query Languages](#qlang)
 * [TinkerPop2](#tinkerpop2)
 * [Communites](#communites)
 * [People to Follow](#people-to-follow)
@@ -90,6 +91,17 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [Mogwai](https://github.com/platinummonkey/mogwai) - TinkerPop 2 Graph Database Library for Python.
 * [spring-data-gremlin](https://github.com/gjrwebber/spring-data-gremlin) - Spring data gremlin makes it easier to implement Graph based repositories. This module extends Spring Data to allow support for potentially any Graph database that implements the TinkerPop Blueprints 2.x API.
 * [blueprints-scala](https://github.com/anvie/blueprints-scala) - TinkerPop Blueprints Scala.
+
+#### <A NAME="qlang"></A>Query Languages
+* [gremlin-py](https://github.com/emehrkay/gremlinpy) (python/variant) - Write pure Python Gremlin that can be sent to Gremlin Server.
+* [gremlin-scala](https://github.com/mpollmeier/gremlin-scala) (scala/variant) - A Scala language wrapper for TinkerPop3.
+* [gremlin-template-string](https://github.com/jbmusso/gremlin-template-string) (js/variant) - A Gremlin language builder.
+* [ipython-gremlin](https://github.com/davebshow/ipython-gremlin) (python/variant) - Gremlin in IPython and Jupyter.
+* [ogre](http://ogre.clojurewerkz.org/) (clojure/variant) - A Clojure language wrapper for TinkerPop3.
+* [Peapod](http://bayofmany.github.io/) (java/dsl) - An object-graph-wrapper.
+* [sparql-gremlin](https://github.com/dkuppitz/sparql-gremlin) (sparql/distinct) - A SPARQL to Gremlin traversal compiler.
+* [sql-gremlin](https://github.com/twilmes/sql-gremlin) (sql/distinct) - An SQL to Gremlin traversal compiler.
+
 
 ## <A NAME="communites"></A>Communities
 * [Gremlin-users](https://groups.google.com/forum/#!forum/gremlin-users) - Mailing list for Gremlin users.
