@@ -76,16 +76,6 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 ##### Scala
 * [Gremlin Scala](https://github.com/mpollmeier/gremlin-scala) - Scala wrapper for Apache TinkerPop3 Graph DSL.
-    
-### <A NAME="tinkerpop2"></A>TinkerPop 2 Libraries
-* [Ferma](https://github.com/Syncleus/Ferma) - An active reworking of TinkerPop frames.
-* [Frames](https://github.com/tinkerpop/frames) - An Object to Graph Framework.
-* [Archimedes](https://github.com/clojurewerkz/archimedes) - Clojure library for Blueprints (part of the TinkerPop graph stack).
-* [AccumuloGraph](https://github.com/JHUAPL/AccumuloGraph) - An implementation of TinkerPop Blueprints using Accumulo.
-* [Frontenac](https://github.com/Loupi/Frontenac) - A .NET port of the TinkerPop Stack.
-* [Mogwai](https://github.com/platinummonkey/mogwai) - TinkerPop 2 Graph Database Library for Python.
-* [spring-data-gremlin](https://github.com/gjrwebber/spring-data-gremlin) - Spring data gremlin makes it easier to implement Graph based repositories. This module extends Spring Data to allow support for potentially any Graph database that implements the TinkerPop Blueprints 2.x API.
-* [blueprints-scala](https://github.com/anvie/blueprints-scala) - TinkerPop Blueprints Scala.
 
 #### <A NAME="qlang"></A>Query Languages
 * [gremlin-py](https://github.com/emehrkay/gremlinpy) - Write pure Python Gremlin that can be sent to Gremlin Server.
@@ -97,6 +87,15 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [sparql-gremlin](https://github.com/dkuppitz/sparql-gremlin) - A SPARQL to Gremlin traversal compiler.
 * [sql-gremlin](https://github.com/twilmes/sql-gremlin) - A SQL to Gremlin traversal compiler.
 
+### <A NAME="tinkerpop2"></A>TinkerPop 2 Libraries
+* [Ferma](https://github.com/Syncleus/Ferma) - An active reworking of TinkerPop frames.
+* [Frames](https://github.com/tinkerpop/frames) - An Object to Graph Framework.
+* [Archimedes](https://github.com/clojurewerkz/archimedes) - Clojure library for Blueprints (part of the TinkerPop graph stack).
+* [AccumuloGraph](https://github.com/JHUAPL/AccumuloGraph) - An implementation of TinkerPop Blueprints using Accumulo.
+* [Frontenac](https://github.com/Loupi/Frontenac) - A .NET port of the TinkerPop Stack.
+* [Mogwai](https://github.com/platinummonkey/mogwai) - TinkerPop 2 Graph Database Library for Python.
+* [spring-data-gremlin](https://github.com/gjrwebber/spring-data-gremlin) - Spring data gremlin makes it easier to implement Graph based repositories. This module extends Spring Data to allow support for potentially any Graph database that implements the TinkerPop Blueprints 2.x API.
+* [blueprints-scala](https://github.com/anvie/blueprints-scala) - TinkerPop Blueprints Scala.
 
 ## <A NAME="communites"></A>Communities
 * [Gremlin-users](https://groups.google.com/forum/#!forum/gremlin-users) - Mailing list for Gremlin users.
