@@ -37,6 +37,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [Titan (Amazon)](https://github.com/awslabs/dynamodb-titan-storage-backend) - The Amazon DynamoDB storage backend for Titan.
 * [Titan (Tupl)](https://github.com/classmethod/tupl-titan-storage-backend) - The Tupl storage backend for Titan.
 * [Unipop](https://github.com/rmagen/unipop) - OLTP Elasticsearch and JDBC backed graph.
+* [DuctileDB](https://github.com/PureSolTechnologies/DuctileDB) - Ductile DB is a graph database based on Hadoop/HBase which provides a vast set of features.
 
 #### <A NAME="wrappers"></A>Wrappers/Clients
 ##### C# .NET
