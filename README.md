@@ -74,7 +74,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [aiogremlin](https://github.com/davebshow/aiogremlin) (python) - A Python 3 library based on asyncio and aiohttp that uses websockets to communicate with the Gremlin Server.
 * [gremlinrestclient](http://gremlinrestclient.readthedocs.org/en/latest/) (python) - Python 2/3 library that uses HTTP to communicate with the Gremlin Server over REST.
 * [goblin](https://github.com/ZEROFAIL/goblin) - OGM for TinkerPop3 Gremlin Server.
-* [goblin 3.5](https://github.com/davebshow/goblin) - A Python 3.5 rewrite of the TinkerPop 3 OGM Goblin
+* [goblin 3.5](https://github.com/davebshow/goblin) - A Python 3.5 rewrite of the TinkerPop 3 OGM Goblin.
 
 ##### Reactive
 * [reactive-gremlin](https://github.com/coreyauger/reactive-gremlin) (scala) - An Akka HTTP Websocket Connector.
