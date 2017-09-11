@@ -84,6 +84,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 ##### Scala
 * [Gremlin Scala](https://github.com/mpollmeier/gremlin-scala) - Scala wrapper for Apache TinkerPop3 Graph DSL.
+* [blueprints-scala](https://github.com/anvie/blueprints-scala) - Tinkerpop Blueprints Scala.
 
 #### <A NAME="qlang"></A>Query Languages
 * [gremlin-py](https://github.com/emehrkay/gremlinpy) - Write pure Python Gremlin that can be sent to Gremlin Server.
