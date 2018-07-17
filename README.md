@@ -55,6 +55,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 ##### Haskell
 * [gremlin-haskell](https://github.com/nakaji-dayo/gremlin-haskell) - Haskell graph database client for TinkerPop3 Gremlin Server.
+* [greskell-websocket](https://github.com/debug-ito/greskell) - Haskell client for TinkerPop3 Gremlin Server.
 
 ##### Java
 * [gremlin-driver](http://tinkerpop.apache.org/docs/current/reference/#connecting-via-java) (java) - A Gremlin Server driver for Java.
@@ -94,6 +95,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [Peapod](https://github.com/bayofmany/peapod) - A new object-graph-wrapper for the Tinkerpop3 graph stack.
 * [sparql-gremlin](https://github.com/dkuppitz/sparql-gremlin) - A SPARQL to Gremlin traversal compiler.
 * [sql-gremlin](https://github.com/twilmes/sql-gremlin) - A SQL to Gremlin traversal compiler.
+* [greskell](https://github.com/debug-ito/greskell) - Haskell binding for Gremlin graph query language
 
 ### <A NAME="tinkerpop2"></A>TinkerPop 2 Libraries
 * [Ferma](https://github.com/Syncleus/Ferma) - An ORM / OGM for the TinkerPop graph stack.
