@@ -55,7 +55,6 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [grammes](https://github.com/northwesternmutual/grammes) - A Go package built to communicate with Apache TinkerPop™ Graph computing framework using Gremlin.
 
 ##### Haskell
-* [gremlin-haskell](https://github.com/nakaji-dayo/gremlin-haskell) - Haskell graph database client for TinkerPop3 Gremlin Server.
 * [greskell-websocket](https://github.com/debug-ito/greskell) - Haskell client for TinkerPop3 Gremlin Server.
 
 ##### Java
