@@ -76,6 +76,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [gremlinclient](https://github.com/davebshow/gremlinclient) - An asynchronous Python 2/3 client for Gremlin Server that allows for flexible coroutine syntax - Trollius, Tornado, Asyncio.
 * [aiogremlin](https://github.com/davebshow/aiogremlin) (python) - A Python 3 library based on asyncio and aiohttp that uses websockets to communicate with the Gremlin Server.
 * [gremlinrestclient](http://gremlinrestclient.readthedocs.org/en/latest/) (python) - Python 2/3 library that uses HTTP to communicate with the Gremlin Server over REST.
+* [Grand](https://github.com/aplbrain/grand) - Wrap Gremlin-compatible graph databases with NetworkX or IGraph-style APIs in Python
 * [goblin](https://github.com/ZEROFAIL/goblin) - OGM for TinkerPop3 Gremlin Server.
 * [goblin 3.5](https://github.com/davebshow/goblin) - A Python 3.5 rewrite of the TinkerPop 3 OGM Goblin.
 
